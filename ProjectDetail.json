@@ -1,0 +1,17 @@
+[
+    {
+        "ProjectName":"Starlink",
+        "EmployeeId":"ID001",
+        "ProjectId":"PRID01"
+    },
+    {
+        "ProjectName":"MarsMission",
+        "EmployeeId":"ID002",
+        "ProjectId":"PRID02"
+    },
+    {
+        "ProjectName":"Chandrayaan",
+        "EmployeeId":"ID003",
+        "ProjectId":"PRID03"
+    }
+]
